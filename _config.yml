@@ -14,11 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Rebooting the Web of Trust"
-email: "Empowering individuals to co-create decentralized systems for lasting mutual benefit."
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+email:
+description: >- "Empowering individuals to co-create decentralized systems for lasting mutual benefit."
 twitter_username: WebOfTrustInfo
 github_username: WebOfTrustInfo
 minimal_mistakes_skin: air
@@ -60,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "RWOT"
+  name   :
   avatar : "/assets/images/rwot-logo.png"
   bio    : "Empowering individuals to co-create decentralized systems for lasting mutual benefit."
   links:
