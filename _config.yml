@@ -48,6 +48,8 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+layout: splash
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
