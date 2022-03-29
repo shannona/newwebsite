@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Rebooting the Web of Trust"
 email:
-description: >- "Empowering individuals to co-create decentralized systems for lasting mutual benefit."
+description: "Empowering individuals to co-create decentralized systems for lasting mutual benefit."
 twitter_username: WebOfTrustInfo
 github_username: WebOfTrustInfo
 minimal_mistakes_skin: air
@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   :
+  name   : "RWOT"
   avatar : "/assets/images/rwot-logo.png"
   bio    : "Empowering individuals to co-create decentralized systems for lasting mutual benefit."
   links:
