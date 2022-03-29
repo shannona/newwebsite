@@ -55,7 +55,6 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "RWOT"
   avatar : "/assets/images/rwot-logo.png"
   bio    : "Empowering individuals to co-create decentralized systems for lasting mutual benefit."
   links:
