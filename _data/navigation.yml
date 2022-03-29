@@ -7,7 +7,7 @@ main:
     url: /papers/
   - title: "Library"
     url: /library/
-- title: "About"
+  - title: "About"
     url: /about/
-- title: "Sponsors"
+  - title: "Sponsors"
     url: /sponsors/
