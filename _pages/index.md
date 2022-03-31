@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About"
 layout: categories
 author_profile: true
 header:
