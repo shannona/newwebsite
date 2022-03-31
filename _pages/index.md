@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Rebooting the Web of Trust"
-layout: splash
+title: "Welcome to the Web of Trust"
+layout: default
 author_profile: true
 header:
   overlay_color: "#000"
