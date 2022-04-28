@@ -1,7 +1,7 @@
 main:
   - title: "Home"
     url: /    
-  - title: "Blog"
+  - title: "Announcements"
     url: /posts/
   - title: "Events"
     url: /events/
@@ -11,5 +11,3 @@ main:
     url: /library/
   - title: "About"
     url: /about/
-  - title: "Sponsors"
-    url: /sponsors/
