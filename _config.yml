@@ -71,16 +71,16 @@ author:
 footer:
   links:
     - label: "Next Event"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fas 	fa-globe-europe"
       url: "https://instagram.com/"
     - label: "Getting Involved"
-      icon: "fa-regular fa-user-group"
+      icon: "fas fa-user"
       url: "https://www.weboftrust.info"
     - label: "What to Expect"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fas fa-info-circle"
       url: "https://www.weboftrust.info"
     - label: "Code of Conduct"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fas fa-comments"
       url: "https://instagram.com/"
 
 defaults:
