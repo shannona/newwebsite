@@ -70,13 +70,16 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
+    - label: "Next Event"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+    - label: "Getting Involved"
+      icon: "fa-regular fa-user-group"
+      url: "https://www.weboftrust.info"
+    - label: "What to Expect"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.weboftrust.info"
+    - label: "Code of Conduct"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
