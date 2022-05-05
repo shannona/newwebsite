@@ -1,5 +1,5 @@
 ---
-title: "Event Summary for First RWOT Virtual Salon Published"
+title: "Decentralized Identity & Privacy Summary Published"
 excerpt_separator: "<!--more-->"
 categories:
   - RWOT Virtual Salon
