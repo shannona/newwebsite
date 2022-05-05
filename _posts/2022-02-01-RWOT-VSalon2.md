@@ -14,3 +14,5 @@ But there remain gaps to be addressed. We’ve learned some of our approaches do
 <!--more-->
 
 Join us for Out of the Box 2052, our second Rebooting the Web of Trust virtual salon. At this participatory half-day workshop, we will explore and develop a shared identity future. The conversation will be captured as a graphic recording with quotes and highlights. This output will be published in perpetuity for reference and licensed for inclusion in other efforts under Creative Commons By Attribution 4.0. See [this example](https://www.weboftrust.info/salons/rwot-salon-1.html) for the kind of output we anticipate creating together.
+
+You can sign up to join us on [Eventbrite](https://www.eventbrite.com/e/out-of-the-box-2052-tickets-231958081867).
