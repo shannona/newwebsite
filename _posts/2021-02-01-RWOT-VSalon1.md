@@ -1,5 +1,5 @@
 ---
-title: "Announcing First RWOT Virtual Salon: Decentralized Identity & Privacy"
+title: "Announcing Decentralized Identity & Privacy Salon"
 excerpt_separator: "<!--more-->"
 categories:
   - RWOT Virtual Salon
