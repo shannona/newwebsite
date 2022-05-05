@@ -14,6 +14,8 @@ We decided to cancel the workshop this Friday after conversations with our atten
 
 Argentina’s decisions are part of a worldwide response to Covid-19 that has led some corporations to forbid employees from travelling. Conferences much larger than us, such as Facebook F8, Geneva Motor Show, and Mobile World Conference, have already been cancelled. This is part of a clear global effect that is making it increasingly difficult to hold international gatherings at this specific moment in time — particularly since we can’t predict how circumstances might change in the next two weeks as Covid-19 likely takes on pandemic status. 
 
+<!--more-->
+
 Under these circumstances, we found it would not be reasonable to continue with the design workshop. So, we are cancelling the workshop now, to maximize your own chances for cancelling tickets and accomodations.
 
 With that said, we should talk about the logistics:
