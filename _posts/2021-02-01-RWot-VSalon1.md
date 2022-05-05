@@ -10,7 +10,7 @@ tags:
 
 Rebooting the Web of Trust invites you to join us for an intimate virtual salon exploring the intersection of decentralized identity and privacy.
 
-> Why did so many Jews, gays & other Nazi undesirables die from the Netherlands? Because the Dutch Civil Service was one of the best in the world, serving its citizens well during the Great Depression. **But 75% of its Jews died due to this efficiency.** [1]
+> Why did so many Jews, gays & other Nazi undesirables die from the Netherlands? Because the Dutch Civil Service was one of the best in the world, serving its citizens well during the Great Depression. **But 75% of its Jews died due to this efficiency.** [^1]
 
 Occupying Germans were able to co-opt the bureaucratic and information systems of the Netherlands to devastating effect. Modern identity systems risk recreating powerful systems that could be used to great harm.
 
@@ -30,3 +30,5 @@ These technologies promise to remove unnecessary middlemen in our digital lives,
 This virtual, facilitated salon will solicit conversation and concerns to be captured for publication, with the creation of at least one unanimous statement by the gathered participants. The output of this work will be published in perpetuity for reference and licensed Creative Commons By Attribution 4.0 for inclusion in other efforts. See [http://tokenethics.com](http://tokenethics.com) for an example of the kind of output we anticipate creating together.
 
 Signups are available through [Eventbrite](https://www.eventbrite.com/e/decentralized-identity-privacy-tickets-138645736129).
+
+[^1]: “Foremembrance” Thread. Twitter. Online. https://twitter.com/ChristopherA/status/1243439314295390208
