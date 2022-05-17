@@ -10,11 +10,14 @@ header:
 ---
 
 {% capture notice-2 %}
+// Place important notices here, brief and 2-3 max
+
 * **4/7/22:** [Save the Date for RWOT11 in September](https://shannona.github.io/newwebsite/rwot%20workshop/RWOT11-SaveDate/)
 * **2/1/22:** [Coming Soon: RWOT Salon 2 Output](https://shannona.github.io/newwebsite/rwot%20virtual%20salon/RWOT-VSalon2/)
+
 {% endcapture %}
 
-<div class="notice">{{ notice-2 | markdownify }}</div>
+<div class="notice--info">{{ notice-2 | markdownify }}</div>
 
 _What is RWOT?_ It's a new take on the classic model of a decentralized web of trust that was first suggested by PGP. Our goal is to create a community that can create decentralized models of identity and information
 
