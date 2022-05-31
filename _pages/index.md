@@ -12,7 +12,6 @@ header:
 ---
 
 {% include nextevent.md %}
-{: .notice--info}
  
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-300x200.jpg){: .align-right}
 
