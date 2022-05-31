@@ -24,10 +24,8 @@ header:
 
 {% capture notice-2 %}
 
- {% for post in posts %}
-    <li>
-  <b>{{ post.date }}: <a href="{{ post.url }}">{{ post.title }}</a></b>
-    </li>
+ {% for post in site.posts limit: 2 %}
+  <b>{{ post.date }}: <a href="{{ post.url }}">{{ post.title }}</a></b><br>
   {% endfor %}
   
 {% endcapture %}
