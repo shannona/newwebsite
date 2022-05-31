@@ -19,10 +19,11 @@ header:
 
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
+<!-- TODO: Automatically draw this out of a folder of photos -->
+
 <figure class="half">
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/rwot-fp1.jpeg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/rwot-fp1.jpeg"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/rwot-fp2.jpeg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/rwot-fp2.jpeg"></a>
-    <figcaption>Discussions and plenaries at the workshop.</figcaption>
 </figure>
 
 ***What is RWOT?*** It's a new take on the classic model of a web of trust that was first suggested by PGP. Our goal is to support our community in creating decentralized models of identity and information, to ensure that we can remain in control of our assets, our accounts, and ourselves online!
