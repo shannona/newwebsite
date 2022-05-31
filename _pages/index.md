@@ -9,8 +9,6 @@ header:
   overlay_image: /assets/images/splash-image-1.jpg
 ---
 
-{% include nextevent.md %}
-
 {% capture notice-2 %}
 
 * **4/7/22:** [Save the Date for RWOT11 in September](https://shannona.github.io/newwebsite/rwot%20workshop/RWOT11-SaveDate/)
@@ -26,6 +24,6 @@ header:
 
 ***What Does RWOT Do?*** RWOT consists of virtual salons and in-person design workshops. They allow us to germinate new ideas and produce finalized content that present those ideas to the larger community. Virtual salons crowdsource inspiration and deliver statements, while design workshops produce at least five white papers on topics decided by the group to have the greatest impact on the future.
 
-_Please join us for our [next workshop](https://shannona.github.io/newwebsite/events/), so that you can contribute your expertise and have a say in the future of identity on the internet._
+{% include nextevent.md %}
 
 
