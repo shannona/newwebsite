@@ -20,8 +20,8 @@ header:
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
 <figure class="half">
-    <a href="/assets/images/rwot-fp1.jpeg"><img src="/assets/images/rwot-fp1.jpeg"></a>
-    <a href="/assets/images/rwot-fp2.jpeg"><img src="/assets/images/rwot-fp2.jpeg"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/rwot-fp1.jpeg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/rwot-fp1.jpeg"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/rwot-fp2.jpeg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/rwot-fp2.jpeg"></a>
     <figcaption>Discussions and plenaries at the workshop.</figcaption>
 </figure>
 
