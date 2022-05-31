@@ -11,8 +11,15 @@ header:
   overlay_image: /assets/images/splash-image-1.jpg
 ---
 
+{% capture notice-1 %}
+
 {% include nextevent.md %}
  
+ {% endcapture%}
+
+<div class="notice--info">{{ notice-1 | markdownify }}</div>
+
+
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-300x200.jpg){: .align-right}
 
 ***What is RWOT?*** It's a new take on the classic model of a web of trust that was first suggested by PGP. Our goal is to support our community in creating decentralized models of identity and information, to ensure that we can remain in control of our assets, our accounts, and ourselves online!
