@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome to the Web of Trust"
-layout: splash
+layout: home
 classes:
   - wide
 author_profile: true
