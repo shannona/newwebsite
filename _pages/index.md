@@ -25,8 +25,12 @@ header:
 {% capture notice-2 %}
 
  {% for post in site.posts limit: 2 %}
+ 
+     {% include archive-single.html type="grid" %}
+
   <b>{{ post.date }}: <a href="{{ post.url }}">{{ post.title }}</a></b><br>
-  {% endfor %}
+
+{% endfor %}
   
 {% endcapture %}
 
