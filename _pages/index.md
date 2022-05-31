@@ -9,6 +9,8 @@ header:
   overlay_image: /assets/images/splash-image-1.jpg
 ---
 
+{% include nextevent.md %}
+
 {% capture notice-2 %}
 
 * **4/7/22:** [Save the Date for RWOT11 in September](https://shannona.github.io/newwebsite/rwot%20workshop/RWOT11-SaveDate/)
