@@ -28,4 +28,14 @@ header:
 
 {% include nextevent.md %}
 
+{% capture notice-2 %}
 
+ {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+  
+{% endcapture %}
+
+<div class="notice--info">{{ notice-2 | markdownify }}</div>
