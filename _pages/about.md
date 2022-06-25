@@ -42,5 +42,5 @@ If you'd like to volunteer to help the event, email the coordinators at [volunte
 
 To stay up to date with Rebooting the Web of Trust, sign up for our mailing list:
 
-<iframe width="100%" height="100%" src="https://59205a95.sibforms.com/serve/MUIEAMa9QCOyvpa_cUdtxIWwrVYAMxSdzJii2EQnBmzBNmYj9mTJG8EjL_IV8CXL9dRcwVqnWeBM4CdBd_jIkLQ1onNduXHFQFAGdnSyg_0pkTjUA_tV2vNetxSoqkmPRU8CyXZ-OUy9n1eAd0gLEUZzjM2BJ-1_vZnXZKCaketLP4qijKWA3PL35xRVPx3eQ3q7dCiW6HAyO-S2" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+<iframe width="100%" height="2000px" src="https://59205a95.sibforms.com/serve/MUIEAMa9QCOyvpa_cUdtxIWwrVYAMxSdzJii2EQnBmzBNmYj9mTJG8EjL_IV8CXL9dRcwVqnWeBM4CdBd_jIkLQ1onNduXHFQFAGdnSyg_0pkTjUA_tV2vNetxSoqkmPRU8CyXZ-OUy9n1eAd0gLEUZzjM2BJ-1_vZnXZKCaketLP4qijKWA3PL35xRVPx3eQ3q7dCiW6HAyO-S2" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
 
