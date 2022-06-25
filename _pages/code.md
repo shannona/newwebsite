@@ -1,5 +1,5 @@
 ---
-permalink: /about/code-of-conduct.html
+permalink: /code-of-conduct/
 layout: single
 classes:
   - wide
