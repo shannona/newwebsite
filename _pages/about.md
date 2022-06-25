@@ -15,7 +15,7 @@ The term "Web of Trust" dates back thirty years to PGP, where the "Web" referred
 Today, those needs remain, but the Web of Trust has grown larger, encompassing the creation, authentication, and verification of self-sovereign identities as well as privacy protection, reputation assessment, smart contracting, and more. The blockchain has come to be one of the most interesting and new tools for these tasks.
 
 * [Our Mission](/about/mission/)
-* [Our Code of Conduct](/about/code-of-conduct.html)
+* [Our Code of Conduct](/about/code-of-conduct/)
 
 ## The Workshops
 
