@@ -78,7 +78,7 @@ footer:
       url: "{{ site.url }}{{ site.baseurl }}/about/getting-involved/"
     - label: "What to Expect"
       icon: "fas fa-info-circle"
-      url: "https://www.weboftrust.info"
+      url: "{{ site.url }}{{ site.baseurl }}/about/what-to-expect/"
     - label: "Code of Conduct"
       icon: "fas fa-comments"
       url: "{{ site.url }}{{ site.baseurl }}/about/code-of-conduct/"
