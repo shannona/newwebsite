@@ -75,7 +75,7 @@ footer:
       url: "https://instagram.com/"
     - label: "Getting Involved"
       icon: "fas fa-user"
-      url: "https://www.weboftrust.info"
+      url: "{{ site.url }}{{ site.baseurl }}/about/getting-involved/"
     - label: "What to Expect"
       icon: "fas fa-info-circle"
       url: "https://www.weboftrust.info"
