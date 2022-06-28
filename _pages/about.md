@@ -27,10 +27,10 @@ Some members of our community have leveraged this work and turned it into projec
 
 The terminology of “Self-Sovereign Identity” created at our design workshops is now being used broadly as the future of identity by many identity organizations worldwide. The current draft specification for [Decentralized Identifiers (DIDs)](https://w3.org/TR/did-core) in the W3C Decentralized Identifier Working Group drew heavily on the work at our workshops (as well as at IIW and the W3C CCG).
 
-Though the precise workshop process may vary from one event to another, the following primers provide a good overview of how they've worked to date:
+Though the precise workshop process may vary from one event to another, the following general information can give you more details on how the workshop works:
 
-* [Writing an Advance Reading](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/advance-readings/advance-reading-primer.md)
-* [The RWOT Primer](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/advance-readings/rwot-primer.md)
+* [Getting Involved]({{ site.url }}{{ site.baseurl }}/about/getting-involved/)
+* [What to Expect]({{ site.url }}{{ site.baseurl }}/about/what-to-expect/)
 
 ## The Team
 
