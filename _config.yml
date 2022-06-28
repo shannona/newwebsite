@@ -81,7 +81,7 @@ footer:
       url: "https://www.weboftrust.info"
     - label: "Code of Conduct"
       icon: "fas fa-comments"
-      url: "https://instagram.com/"
+      url: "{{ site.url }}{{ site.baseurl }}/about/code-of-conduct/"
 
 defaults:
   # _posts
