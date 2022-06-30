@@ -10,10 +10,10 @@ Rebooting the Web of Trust's mission is to empower individuals to co-create dece
 
 ## Our Purpose
 
-RWOT reboots the classic model of a decentralized web of trust through organized collaborative gatherings. It consists of virtual salons and in-person design workshops focused on the creation of the next generation of decentralized web-of-trust based identity systems. These events are about germinating new ideas and producing finalized content that presents those ideas to the larger community.
+RWOT reboots the classic model of a decentralized web of trust through organized collaborative gatherings. These include both virtual salons and in-person design workshops, all focused on the creation of the next generation of decentralized web-of-trust based identity systems. These events are about germinating new ideas and producing finalized content that presents those ideas to the larger community.
 
 * Virtual salons crowdsource inspiration and deliver statements.
-* Design workshops produce at least five white papers (or programs or other outputs) on topics decided by the group to have the greatest impact on the future.
+* Design workshops produce at least five white papers (or applications or other outputs) on topics decided by the group to have the greatest impact on the future.
 
 RWOT has published foundational work on Blockcerts, DIDs, the BTCR DID Method, self-sovereign identity, and Verifiable Credentials.
 
@@ -24,9 +24,9 @@ Other topics of interest have included: credential wallets, decentralized data, 
 Rebooting the Web of Trust is meant to:
 
 * **Create Community** by serving as a common meeting ground between various related technology communities.
-* **Document Best Practices** by establishing shared understanding of the opportunities and pitfalls of decentralized identity.
-* **Produce Content** through the creation of white papers and other content to support the generation of empowering decentralized systems.
-* **Evangelize** by establishing our output as foundational/influential to the future of decentralized identity.
+* **Document Best Practices** by creating a shared understanding of the opportunities and pitfalls of decentralized identity.
+* **Produce Content** through the creation of white papers and other content to support the development of empowering decentralized systems.
+* **Evangelize** by establishing our output as foundational and influential to the future of decentralized identity.
 
 Through these objectives, we hope to support the following outcomes:
 
