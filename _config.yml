@@ -75,13 +75,13 @@ footer:
       url: "https://www.eventbrite.com/e/rebooting-the-web-of-trust-xi-2022-the-hague-tickets-347605426187"
     - label: "Getting Involved"
       icon: "fas fa-user"
-      url: {{ site.url }}{{ site.baseurl }}"/about/getting-involved/"
+      url: "/about/getting-involved/"
     - label: "What to Expect"
       icon: "fas fa-info-circle"
-      url: {{ site.url }}{{ site.baseurl }}"/about/what-to-expect/"
+      url: "/about/what-to-expect/"
     - label: "Code of Conduct"
       icon: "fas fa-comments"
-      url: {{ site.url }}{{ site.baseurl }}"/about/code-of-conduct/"
+      url: "/about/code-of-conduct/"
 
 defaults:
   # _posts
