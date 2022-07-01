@@ -3,6 +3,8 @@ permalink: /papers/
 layout: single
 author_profile: true
 title: "RWOT Papers"
+classes:
+  - wide
 toc: true
 toc_label: Final Papers
 ---
