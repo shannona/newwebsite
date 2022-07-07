@@ -5,9 +5,5 @@ search: false
 
 $max-width:90%;
 
-$right-sidebar-width-narrow: 100px !default;
-$right-sidebar-width: 100px !default;
-$right-sidebar-width-wide: 100px !default;
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
