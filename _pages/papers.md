@@ -1,7 +1,7 @@
 ---
 permalink: /papers/
 layout: single
-author_profile: true
+author_profile: false
 title: "RWOT Papers"
 classes:
   - wide
