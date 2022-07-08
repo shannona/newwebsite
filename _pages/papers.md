@@ -7,8 +7,7 @@ toc: true
 toc_label: Final Papers
 ---
 This is categorized list of papers produced by the Rebooting the Web of
-Trust design workshops is complete through **RWOT-VIII**. For papers
-from our most recent RWOT design workshop, see the [events page](/events).
+Trust design workshops is complete through **RWOT-IX** in Prague (2019).
 
 ## Attestation
 
@@ -23,6 +22,14 @@ Components](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot6-santabarbar
 Auth](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot8-barcelona/blob/master/final-documents/did-auth-oidc.pdf)
 * **7/31/18:** [Introduction to DID
 Auth](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-auth.pdf)
+
+## Blockcerts
+
+*An open standard for blockchain credentials.*
+
+* **11/19/19:** [Blockcerts v3 Proposal](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/final-documents/BlockcertsV3.pdf)
+* **6/20/18:** [Open Badges are Verifiable
+Credentials](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/final-documents/open-badges-are-verifiable-credentials.pdf)
 
 ## Blockchain
 
@@ -42,39 +49,51 @@ Capabilities](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2
 * **10/13/17:** [Identity Hubs Capabilities
 Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.pdf)
 
-## Commons
+## Commons & Cooperation
 
-*Resources that belong to a community.*
+*Working together for the common good.*
+
+* **11/19/19:** [Decentralized Identity as a Meta-platform: How Cooperation Beats Aggregation](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/final-documents/CooperationBeatsAggregation.pdf)
 * **5/3/18:** [Exploring Sustainable Technology Commons using Appreciative
 Inquiry](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/final-documents/sustainable-commons.pdf)
 
 ## Credentials
 
 *A set of one or more claims about the same entity.*
+
 * **2/17/18:** [A Decentralized Approach to Blockcerts Credential
 Revocation](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/blockcerts-revocation.pdf)
 
 ## DAD: Decentralized Autonomic Data
 
-*Self-regulating or self-managing data that does not reside with a
-single party.*
+*Self-regulating or self-managing data that does not reside with a single party.*
+
 * **1/17/19:** [A DID for
 Everything](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/A_DID_for_everything.pdf)
-* **4/26/18:** [Decentralized Autonomic Data (DAD) and the three R\'s of
-Key
-Management](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/final-documents/DecentralizedAutonomicData.pdf)
+* **4/26/18:** [Decentralized Autonomic Data (DAD) and the three R\'s of Key Management](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/final-documents/DecentralizedAutonomicData.pdf)
+
+## Data Vaults
+
+*Protected stores of online data, including Identity Hubs and more.*
+
+* **10/24/19:** [Encrypted Data Vaults](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/final-documents/encrypted-data-vaults.pdf)
+* **8/5/18:** [Identity Hub Attestation Flows and Components](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/final-documents/identity-hub-attestations.pdf)
+* **10/13/17:** [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.pdf)
+* **4/13/17:**
+[Hubs](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/hubs.pdf)
 
 ## Decentralized Consensus Systems
 
 *A method for achieving agreement without a centralized authority.*
+
 * **2/21/17:** [The DCS
 Theorem](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/dcs-theorem/The-DCS-Theorem.pdf)
-[]{#did}
 
 ## DID: Decentralized Identifiers
 
 *A portable, globally unique identifier associated with some entity that
 does not require a centralized authority for registration.*
+
 * **8/20/19:** [Using OpenID Connect Self-Issued to Achieve DID
 Auth](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot8-barcelona/blob/master/final-documents/did-auth-oidc.pdf)
 * **4/4/19:** [RWOT8 DID Specification
@@ -98,6 +117,8 @@ Identifiers)](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master
 
 *A regularized methodology for creating, reading, updating, and revoking
 a DID.*
+
+* **11/19/19:** [A Rubric for Decentralization of DID Methods](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/final-documents/decentralization-rubric.pdf)
 * **4/9/19:** [Peer DID Method Specification
 Report](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot8-barcelona/blob/master/final-documents/peer-DID-method-spec-report.pdf)
 * **1/16/19:** [BTCR v0.1
@@ -110,6 +131,7 @@ Specification](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/
 ## Digital Rights
 
 *The codification of authorization to use digital media.*
+
 * **3/3/17:** [Smart Consent
 Protocol](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/smart-consent-protocol.pdf)
 
@@ -127,16 +149,6 @@ and privacy of individuals.*
 * **6/5/18:** [When GDPR becomes real, and Blockchain is no longer Fairy
 Dust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/gdpr.pdf)
 
-## Hub
-
-*A datastore where objects are signed by a digital identity and
-accessible through unique global identifiers.*
-* **8/5/18:** [Identity Hub Attestation Flows and
-Components](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/final-documents/identity-hub-attestations.pdf)
-* **10/13/17:** [Identity Hubs Capabilities
-Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.pdf)
-* **4/13/17:**
-[Hubs](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/hubs.pdf)
 
 ## Identifier
 
@@ -155,17 +167,20 @@ Identity](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-docu
 * **8/23/16:** [Identity Crisis: Clear Identity through
 Correlation](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/identity-crisis.pdf)
 
+## Identity, Decentralized
+
+*Identity that is not controlled by a central server.*
+
+* **11/19/19:** [Decentralized Identity as a Meta-platform: How Cooperation Beats Aggregation](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/final-documents/CooperationBeatsAggregation.pdf)
+
 ## Identity, Self-Sovereign
 
 *A decentralized, portable digital identity that does not depend on any
 centralized authority.*
-* **4/12/19:** [How SSI Will Survive
-Capitalism](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot8-barcelona/blob/master/final-documents/how-ssi-will-survive-capitalism.pdf)
-* **12/5/18:** [How to Convince Dad\* of the Importance of Self-Sovereign
-Identity](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.pdf)
-* **7/24/18:** [SSI: A Roadmap for
-Adoption](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/final-documents/a-roadmap-for-ssi.pdf)
-[]{#keys}
+
+* **4/12/19:** [How SSI Will Survive Capitalism](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot8-barcelona/blob/master/final-documents/how-ssi-will-survive-capitalism.pdf)
+* **12/5/18:** [How to Convince Dad\* of the Importance of Self-Sovereign Identity](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.pdf)
+* **7/24/18:** [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/final-documents/a-roadmap-for-ssi.pdf)
 
 ## Keys
 
@@ -208,6 +223,8 @@ Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blo
 ## Reputation
 
 *A system for measuring the behavior of entities.*
+
+* **10/30/19:** [Reputation Interpretation](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/final-documents/reputation-interpretation.pdf)
 * **9/12/17:** [Design Considerations for Decentralized Reputation
 Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2017/blob/master/final-documents/reputation-design.pdf)
 * **2/17/17:** [Portable Reputation Toolkit Use
@@ -273,6 +290,9 @@ Data](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/f
 ## Verifiable Credentials
 
 *A tamper-evident set of claims about the same entity.*
+
+* **11/19/19:** [Alice Attempts to Abuse a Verifiable Credential](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/final-documents/alice-attempts-abuse-verifiable-credential.pdf)
+* **11/19/19:** [Blockcerts v3 Proposal](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/final-documents/BlockcertsV3.pdf)
 * **7/8/20:** [Driving Adoption with Focus on Basic Human Needs: Safety
 and
 Security](https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/final-documents/driving-adoption-needs.pdf)
@@ -293,7 +313,6 @@ Credentials](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/fi
 *The act of proving the accuracy of something.*
 * **11/26/18:** [Resource Integrity
 Proofs](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot7/blob/master/final-documents/resource-integrity-proofs.pdf)
-[]{#wallet}
 
 ## Wallets
 
