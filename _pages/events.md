@@ -25,3 +25,7 @@ rwot_9:
 {% include nextevent.md %}
 {% endcapture%}
 
+{% include feature_row id="rwot_9" type="left" %}
+
+
+
