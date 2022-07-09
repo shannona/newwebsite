@@ -6,8 +6,8 @@ classes:
 author_profile: true
 title: "Events"
 rwot_9:
-  - image_path: "{{ site.url }}{{ site.baseurl }}/assets/images/events/rwot9b.jpeg"
-    alt: "Silicon Salon Overview"
+  - image_path: "/assets/images/events/rwot9b.jpeg"
+    alt: "RWOT 9"
     title: "RWOT 9: Prague (2019)"
     excerpt: 'The final Prague before the global COVID pandemic was held in Prague of the Czech Republic in September 2019.'
     url: "https://github.com/WebOfTrustInfo/rwot9-prague/tree/master/final-documents#readme"
