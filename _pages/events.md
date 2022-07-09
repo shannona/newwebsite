@@ -90,7 +90,7 @@ rwot_4:
     btn_label3: "Repo"
     btn_class3: "btn--info"
 rwot_3:
-  - image_path: "/assets/images/events/rwot3a.jpeg"
+  - image_path: "/assets/images/events-nofp/rwot3a.jpeg"
     alt: "RWOT 3"
     title: "RWOT 3: San Francisco (2016)"
     excerpt: 'RWOT was still finding its feet, so October 2016 found us back in the Bay Area for our third event.'
@@ -104,7 +104,7 @@ rwot_3:
     btn_label3: "Repo"
     btn_class3: "btn--info"
 rwot_2:
-  - image_path: "/assets/images/events/rwot2a.jpeg"
+  - image_path: "/assets/images/events/rwot2a.jpg"
     alt: "RWOT 2"
     title: "RWOT 2: ID2020 (2016)"
     excerpt: 'Our second event, held in New York in May 2016 in conjunction with the ID2020 Summit at the United Nations.'
@@ -120,7 +120,7 @@ rwot_2:
 rwot_1:
   - image_path: "/assets/images/events/rwot1a.jpeg"
     alt: "RWOT 1"
-    title: "RWOT 1: PrSan Francisco (2015)"
+    title: "RWOT 1: San Francisco (2015)"
     excerpt: 'Christopher Allen debuted the first workshop in San Francisco to mark the 25th anniversary of PGP.'
     url: "https://github.com/WebOfTrustInfo/rwot1-sf/tree/master/final-documents#readme"
     btn_label: "Final Papers"
