@@ -7,7 +7,7 @@ author_profile: true
 title: "Virtual Salon: Decentralized Identity & Privacy"
 ---
 
-![](/assets/images/events-salon1/wot-logo-salon1.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/events-salon1/wot-logo-salon1.png)
 
 The first RWOT Virtual Salon, on Decentralized Identity & Privacy, gave participants the opportunity to discuss the intersection between decentralized digital identity and privacy, with the goal of producing a single statement that the entire salon was able to agree was an important statement on the future of identity.
 
@@ -49,9 +49,9 @@ Other statements with high interest, but where we could not reach rough consensu
 
 The following graphics capture the major topics and outputs:
 
-![](/assets/images/events-salon1/rwot_v3_web_final.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/events-salon1/rwot_v3_web_final.jpeg)
 
-![](/assets/images/events-salon1/rwot_v3_web_final2.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/events-salon1/rwot_v3_web_final2.jpeg)
 
 ## Key Quotes
 
@@ -64,44 +64,50 @@ People spoke adroitly on these topics over the course of the salon. What follows
 
 #### Designing Identity
 
-<div class="cartouche past-event">
+{% capture notice-1 %}
 "How we build an identity system that is not implicitly a violation of privacy is one of the big problems I see ahead of us."
-<br><br>
+
 "I see some people making arguments that any use of a public ledger is incompatible with privacy."
-<br><br>
+
 "I've seen a lot of differences when you're running a digital identity system that is user-led versus issuing a self-sovereign or a digital-identity account that you manage on behalf of individuals." 
-</div></p>
+{% endcapture%}
+
+<div class="notice--primary">{{ notice-1 | markdownify }}</div>
 
 #### Describing Identity
 
-<div class="cartouche past-event">
-"I'm increasingly thinking of attributes like the reflections on Plato's cave: your identity is on the other side, and all you are seeing are the shadows dancing on the wall."<br>
+{% capture notice-2 %}
+"I'm increasingly thinking of attributes like the reflections on Plato's cave: your identity is on the other side, and all you are seeing are the shadows dancing on the wall."
+
 "We can mistake the attributes that we're dealing with for the person who is underlying them."
-</div></p>
+{% endcapture%}
+
+<div class="notice--primary">{{ notice-2 | markdownify }}</div>
 
 #### Controlling Identity
 
-<div class="cartouche past-event">
 "The owner of the identifier should not necessarily be the controller of all opinions about them."
-</div></p>
+{: .notice}
 
 #### Designing Privacy
 
-<div class="cartouche past-event">
-"The physical and digital worlds both came without privacy."<br>
+{% capture notice-3 %}
+"The physical and digital worlds both came without privacy."
 "We've had privacy in the physical world for long as we've been human beings. We've made another world here."
-<br><br>
+
 "If we're relying on others alone to provide us with privacy, we're not going to get any."
-<br><br>
+
 "We have to bake in privacy at the deepest level, so that anyone can use it, especially the vulnerable."
-<br><br>
+
 "How can we build our tech so that people feel less of a need for privacy?"<br>
 "How do we stop the privacy arms race?"
-<br><br>
+
 "We just want to make sure that the privacy that we all want is implemented in such a way that it doesn't create other negative consequences."
-<br><br>
+
 "I think it's a certainty that there are privacy technologies that we simply do not have yet and that we might have in the future."
-</div></p>
+{% endcapture%}
+
+<div class="notice--primary">{{ notice-3 | markdownify }}</div>
 
 #### About Abuse
 
