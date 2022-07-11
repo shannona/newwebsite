@@ -1,5 +1,5 @@
 ---
-permalink: /events/salon1/
+permalink: salons/decentralizedprivacy2021
 layout: single
 classes:
   - wide
