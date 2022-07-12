@@ -24,7 +24,7 @@ rwot_10:
     alt: "RWOT 10"
     title: "RWOT 10: CANCELLED (2020)"
     excerpt: 'The tenth RWOT was to happen in Buenoes Aires in March 2020, but was cancelled due to the outbreak of COVID.'
-    url: "https://github.com/WebOfTrustInfo/rwot10-buenoesaires/tree/master/topics-and-advance-readings#topical-listing"
+    url: "https://github.com/WebOfTrustInfo/rwot10-buenosaires/tree/master/topics-and-advance-readings#topics--advance-readings"
     btn_label: "Advance Readings"
     btn_class: "btn--info"
 rwot_9:
