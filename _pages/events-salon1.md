@@ -60,7 +60,7 @@ People spoke adroitly on these topics over the course of the salon. What follows
 #### The Importance of Privacy
 
 "Privacy forms the foundation of our freedoms."
-{: .notice}
+{: .notice--primary}
 
 #### Designing Identity
 
@@ -87,7 +87,7 @@ People spoke adroitly on these topics over the course of the salon. What follows
 #### Controlling Identity
 
 "The owner of the identifier should not necessarily be the controller of all opinions about them."
-{: .notice}
+{: .notice--primary}
 
 #### Designing Privacy
 
@@ -99,7 +99,7 @@ People spoke adroitly on these topics over the course of the salon. What follows
 
 "We have to bake in privacy at the deepest level, so that anyone can use it, especially the vulnerable."
 
-"How can we build our tech so that people feel less of a need for privacy?"<br>
+"How can we build our tech so that people feel less of a need for privacy?"
 "How do we stop the privacy arms race?"
 
 "We just want to make sure that the privacy that we all want is implemented in such a way that it doesn't create other negative consequences."
@@ -111,123 +111,138 @@ People spoke adroitly on these topics over the course of the salon. What follows
 
 #### About Abuse
 
-<div class="cartouche past-event">
 "We're going to see egregious things happening in the digital frontier."
-</div></p>
+{: .notice--primary}
 
 #### About Abuse of Personal Data
 
-<div class="cartouche past-event">
+{% capture notice-4 %}
 "There is a mindset of automatically demanding PIIs."
-<br><br>
+
 "Revealing personal data in order to gain access to services is going to become ubiquitous, it's going to be abused, especially as the technology allows it to become frictionless."
-<br><br>
+
 "We need counter measures against eight-hundred pound gorillas that force you to surrender your verifiable credentials."
-</div></p>
+{% endcapture%}
+
+<div class="notice--primary">{{ notice-4 | markdownify }}</div>
 
 #### About Aggregation & Correlation
 
-<div class="cartouche past-event">
+{% capture notice-5 %}
 "As you share your Verifiable Claims and your knowledge, there are data aggregators who might be buying up all this data, and as long as your identifier is the same, you end up in the same issue, where you have a big silo of your data that is being sold all over the place."
-<br><br>
+
 "No matter how they try to do them [even trying to make them anonymous and distributed], trackers for advertising are identifying and indelible."
-<br><br>
+
 "Any information that's out there that's correlatable will be correlated."
-</div></p>
+{% endcapture%}
+
+<div class="notice--primary">{{ notice-5 | markdownify }}</div>
 
 #### About Advocacy
 
-<div class="cartouche past-event">
-"There is so much focus on surveillance and tracking that people are losing faith in our ability to preserve privacy in any way."<br>
-"There are so many ventures taking place right now that are going to preserve privacy, protect data, etc."<br>
+{% capture notice-6 %}
+"There is so much focus on surveillance and tracking that people are losing faith in our ability to preserve privacy in any way."
+"There are so many ventures taking place right now that are going to preserve privacy, protect data, etc."
 "We want people to believe that, yes, you can preserve privacy."
-<br><br>
+
 "How do you get people to get away from that convenience of just being able to reset a password, going to managing keys and actually playing an active role in identity?"
-</div></p>
+{% endcapture%}
+
+<div class="notice--primary">{{ notice-6 | markdownify }}</div>
 
 #### About Community
 
-<div class="cartouche past-event">
+{% capture notice-7 %}
 "I think we've gone overboard on the individual perspective."
-<br><br>
+
 "Focus on individual privacy neglects families, neighborhood, and relationships."
-<br><br>
+
 "There are many other stories where people have come together to share information in order to do something for the common good."
-<br><br>
+
 "There are other points of view where community and authenticity and vulnerability are an asset."
-<br><br>
+
 "Society is myriad, and we have to support all the ways that society manifests."
-<br><br>
+
 "How do we do surveillance socialism instead of surveillance capitalism?"
-</div></p>
+{% endcapture%}
+
+<div class="notice--primary">{{ notice-7 | markdownify }}</div>
 
 #### About Culture
 
-<div class="cartouche past-event">
-"The preconceptions about what's possible and what's not possible are really very different around the world."<br>
+{% capture notice-8 %}
+"The preconceptions about what's possible and what's not possible are really very different around the world."
 "There are different community norms."
-</div></p>
+{% endcapture%}
+
+<div class="notice--primary">{{ notice-8 | markdownify }}</div>
 
 #### About Decentralization
 
-<div class="cartouche past-event">
 "We need decentralize so that the control of what I disclose to whom and under what rules resides with me." 
-</div></p>
+{: .notice--primary}
 
 #### About Individualism
 
-<div class="cartouche past-event">
+{% capture notice-9 %}
 "There are some things that only an individual can do. It's not the same thing as being obsessed with individualism." 
-<br><br>
+
 "We have to assign to the social the things that can only be social, to the regulatory the things that can only be regulatory, and to the individual the things that can only be individual."
-</div></p>
+{% endcapture%}
+
+<div class="notice--primary">{{ notice-9 | markdownify }}</div>
 
 #### About Lock-In
 
-<div class="cartouche past-event">
 "A lot of privacy tools are blatantly anti-competitive."
-</div>
+{: .notice--primary}
 
 #### About Regulations
 
-<div class="cartouche past-event">
+{% capture notice-10 %}
 "Under the GDPR, we are only data subjects. We have to opt in or opt out of everyone else's privacy provisions. That's a very broken system."
-<br><br>
-"Regulation is not enough to protect user privacy in user data systems."<br>
+
+"Regulation is not enough to protect user privacy in user data systems."
 "I believe that the technology itself needs to provide some avenues for recourse."
-</div></p>
+{% endcapture%}
+
+<div class="notice--primary">{{ notice-10 | markdownify }}</div>
 
 #### About Relationships
 
-<div class="cartouche past-event">
+{% capture notice-11 %}
 "For relationships, we tend to think about the nodes and not the connections."
-<br><br>
+
 "The extent of privacy we're having depends on who you're connecting with when exchanging information."
-</div></p>
+{% endcapture%}
+
+<div class="notice--primary">{{ notice-11 | markdownify }}</div>
 
 #### About Rights
 
-<div class="cartouche past-event">
+{% capture notice-12 %}
 "We have a variety of civil rights in the real world. A lot of countries are not confirming those same rights exist in the digital world."
-<br><br>
+
 "It turns out that the digital world is owned. It's property law."
-</div></p>
+{% endcapture%}
+
+<div class="notice--primary">{{ notice-12 | markdownify }}</div>
 
 #### About Usability
 
-<div class="cartouche past-event">
 "Technology is just giving us options, new technology is giving us new options, but we also need to limit options so that it doesn't become unusable."
-</div></p>
+{: .notice--primary}
 
 #### About the Vulnerable
 
-<div class="cartouche past-event">
+{% capture notice-13 %}
 "Right now there's no incentives, there's no money, for doing security reviews that include the vulnerable. We have to gift it."
-</div></p>
+{% endcapture%}
 
-<a name="questions"></a>
+<div class="notice--primary">{{ notice-13 | markdownify }}</div>
+
+
 ## Questions about the Salon
-<hr style="border-color: #0086FF; background-color: #0086FF; height: 3px; border: none">
 
 #### What is RWOT?
 
@@ -254,23 +269,22 @@ We used Zoom for our conversations, supplemented by <a href="https://app.mural.c
 #### What Were the Guidelines for the Conversations?
 
 All conversation was protected by the Chatham House Rules:
-<blockquote><i>
-“The Chatham House Rule reads as follows: When a meeting, or part thereof, is held under the Chatham House Rule, participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed.”
-</i><br><br>
-<a href="https://www.chathamhouse.org/about/chatham-house-rule">https://www.chathamhouse.org/about/chatham-house-rule</a>
-</blockquote>
+
+> “The Chatham House Rule reads as follows: When a meeting, or part thereof, is held under the Chatham House Rule, participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed.”
+>
+> <a href="https://www.chathamhouse.org/about/chatham-house-rule">https://www.chathamhouse.org/about/chatham-house-rule</a>
 
 ## Credits
-<hr style="border-color: #0086FF; background-color: #0086FF; height: 3px; border: none">
 
-<b>Facilitated by:** Cynthia Vasiliu<br>
-<b>Producer:** Erica Connell<br>
-<b>Co-Producer:** Will Abramson<br>
-<b>Topic Lead:** Joe Andrieu<br>
-<b>Editor-in-Chief:** Shannon Appelcline<br>
-<b>Graphic Recorder:** Veera Hyytia 
+* **Facilitated by:** Cynthia Vasiliu
+* **Producer:** Erica Connell
+* **Co-Producer:** Will Abramson
+* **Topic Lead:** Joe Andrieu
+* **Editor-in-Chief:** Shannon Appelcline
+* **Graphic Recorder:** Veera Hyytia 
 
 #### Participants
+
 Will Abramson,
 Christopher Allen,
 Joe Andrieu,
@@ -296,88 +310,3 @@ Shigeya Suzuki,
 Vaner Vendramini,
 John Wunderlich, and
 Brent Zundel.
-
-			</div>
-		</div>
-		<!-- End Intro -->
-
-		<div class="fh5co-spacer fh5co-spacer-md"></div>
-
-		<!-- Call to action -->
-		<div class="fh5co-call-to-action text-center">
-			<div class="container">
-				<div class="fh5co-call-to-action-wrap">
-					<div class="fh5co-call-to-action-inner text-center">
-						<h2 class="h3"><p style="color:white;">Join the next DesignShop.</p>
-						<a href="http://www.weboftrust.info/next-event-page.html" class="btn btn-outline btn-sm">Get Started</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- Call to action -->	
-
-		<div class="fh5co-spacer fh5co-spacer-md"></div>
-
-
-		</main>
-
-		<footer id="fh5co-footer" role="contentinfo">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-push-6 col-md-6">
-						<ul class="fh5co-footer-social">
-							<li><a href="https://github.com/WebOfTrustInfo">Github</a></li>
-							<li><a href="https://twitter.com/hashtag/rebootingweboftrust">Twitter: #RebootingWebOfTrust</a></li>
-						</ul>
-						<p class="fh5co-copyright">
-							<small>© 2016-2021 WebOfTrustInfo.</small>
-						</p>
-					</div>
-				</div>
-			</div>
-		</footer>
-
-		<!-- Go To Top -->
-		<a href="#" class="fh5co-gotop"><i class="ti-shift-left"></i></a>
-
-
-		<!-- jQuery -->
-		<script src="https://www.weboftrust.info/javascripts/jquery-1.10.2.min.js"></script>
-		<!-- jQuery Easing -->
-		<script src="https://www.weboftrust.info/javascripts/jquery.easing.1.3.js"></script>
-		<!-- Bootstrap -->
-		<script src="https://www.weboftrust.info/javascripts/bootstrap.js"></script>
-		<!-- Owl carousel -->
-		<script src="https://www.weboftrust.info/javascripts/owl.carousel.min.js"></script>
-		<!-- Magnific Popup -->
-		<script src="https://www.weboftrust.info/js/jquery.magnific-popup.min.js"></script>
-		<!-- Easy Responsive Tabs -->
-		<script src="https://www.weboftrust.info/javascripts/easyResponsiveTabs.js"></script>
-		<!-- FastClick for Mobile/Tablets -->
-		<script src="https://www.weboftrust.info/javascripts/fastclick.js"></script>
-		<!-- Velocity -->
-		<script src="https://www.weboftrust.info/javascripts/velocity.min.js"></script>
-
-		<!-- Google Map -->
-		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&sensor=false"></script>
-		<script src="https://www.weboftrust.info/javascripts/google_map.js"></script>
-
-		<!-- Main JS -->
-		<script src="https://www.weboftrust.info/javascripts/main.js"></script>
-
-	</body>
-</html>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
