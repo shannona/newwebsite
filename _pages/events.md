@@ -20,7 +20,7 @@ vsalon_1:
     btn_label3: "Key Quotes"
     btn_class3: "btn--info"
 rwot_10:
-  - image_path: "/assets/images/events-nofp/rwot10a.jpg"
+  - image_path: "/assets/images/events-nofp/rwot10b.jpg"
     alt: "RWOT 10"
     title: "RWOT 10: CANCELLED (2020)"
     excerpt: 'The tenth RWOT was to happen in Buenoes Aires in March 2020, but was cancelled due to the outbreak of COVID.'
