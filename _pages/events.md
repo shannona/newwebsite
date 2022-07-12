@@ -16,7 +16,7 @@ vsalon_1:
     url2: "/salons/decentralizedprivacy2021#an-overview"
     btn_label2: "Graphics"
     btn_class2: "btn--info"
-    url3: "/salons/decentralizedprivacy2021#key-qutoes"
+    url3: "/salons/decentralizedprivacy2021#key-quotes"
     btn_label3: "Key Quotes"
     btn_class3: "btn--info"
 rwot_10:
@@ -38,7 +38,7 @@ rwot_9:
     url2: "https://github.com/WebOfTrustInfo/rwot9-prague/tree/master/topics-and-advance-readings#topical-listing"
     btn_label2: "Advance Readings"
     btn_class2: "btn--info"
-    url3: "https://github.com/WebOfTrustInfo/rwot9-prague/tree/master/topics-and-advance-readings"
+    url3: "https://github.com/WebOfTrustInfo/rwot9-prague/"
     btn_label3: "Repo"
     btn_class3: "btn--info"
 rwot_8:
@@ -52,7 +52,7 @@ rwot_8:
     url2: "https://github.com/WebOfTrustInfo/rwot8-barcelona/tree/master/topics-and-advance-readings#topical-listing"
     btn_label2: "Advance Readings"
     btn_class2: "btn--info"
-    url3: "https://github.com/WebOfTrustInfo/rwot8-barcelona/tree/master/topics-and-advance-readings"
+    url3: "https://github.com/WebOfTrustInfo/rwot8-barcelona/"
     btn_label3: "Repo"
     btn_class3: "btn--info"
 rwot_7:
@@ -66,7 +66,7 @@ rwot_7:
     url2: "https://github.com/WebOfTrustInfo/rwot7-toronto/tree/master/topics-and-advance-readings#topical-listing"
     btn_label2: "Advance Readings"
     btn_class2: "btn--info"
-    url3: "https://github.com/WebOfTrustInfo/rwot7-toronto/tree/master/topics-and-advance-readings"
+    url3: "https://github.com/WebOfTrustInfo/rwot7-toronto/"
     btn_label3: "Repo"
     btn_class3: "btn--info"
 rwot_6:
@@ -80,7 +80,7 @@ rwot_6:
     url2: "https://github.com/WebOfTrustInfo/rwot6-santabarbara/tree/master/topics-and-advance-readings#topical-listing"
     btn_label2: "Advance Readings"
     btn_class2: "btn--info"
-    url3: "https://github.com/WebOfTrustInfo/rwot6-santabarbara/tree/master/topics-and-advance-readings"
+    url3: "https://github.com/WebOfTrustInfo/rwot6-santabarbara/"
     btn_label3: "Repo"
     btn_class3: "btn--info"
 rwot_5:
@@ -94,7 +94,7 @@ rwot_5:
     url2: "https://github.com/WebOfTrustInfo/rwot5-boston/tree/master/topics-and-advance-readings#topical-listing"
     btn_label2: "Advance Readings"
     btn_class2: "btn--info"
-    url3: "https://github.com/WebOfTrustInfo/rwot5-boston/tree/master/topics-and-advance-readings"
+    url3: "https://github.com/WebOfTrustInfo/rwot5-boston/"
     btn_label3: "Repo"
     btn_class3: "btn--info"
 rwot_4:
@@ -108,7 +108,7 @@ rwot_4:
     url2: "https://github.com/WebOfTrustInfo/rwot4-paris/tree/master/topics-and-advance-readings#topical-listing"
     btn_label2: "Advance Readings"
     btn_class2: "btn--info"
-    url3: "https://github.com/WebOfTrustInfo/rwot4-paris/tree/master/topics-and-advance-readings"
+    url3: "https://github.com/WebOfTrustInfo/rwot4-paris/"
     btn_label3: "Repo"
     btn_class3: "btn--info"
 rwot_3:
@@ -122,7 +122,7 @@ rwot_3:
     url2: "https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/topics-and-advance-readings#topical-listing"
     btn_label2: "Advance Readings"
     btn_class2: "btn--info"
-    url3: "https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/topics-and-advance-readings"
+    url3: "https://github.com/WebOfTrustInfo/rwot3-sf/"
     btn_label3: "Repo"
     btn_class3: "btn--info"
 rwot_2:
@@ -136,7 +136,7 @@ rwot_2:
     url2: "https://github.com/WebOfTrustInfo/rwot2-id2020/tree/master/topics-and-advance-readings#topical-listing"
     btn_label2: "Advance Readings"
     btn_class2: "btn--info"
-    url3: "https://github.com/WebOfTrustInfo/rwot2-id2020/tree/master/topics-and-advance-readings"
+    url3: "https://github.com/WebOfTrustInfo/rwot2-id2020/"
     btn_label3: "Repo"
     btn_class3: "btn--info"
 rwot_1:
@@ -147,10 +147,10 @@ rwot_1:
     url: "https://github.com/WebOfTrustInfo/rwot1-sf/tree/master/final-documents#readme"
     btn_label: "Final Papers"
     btn_class: "btn--success"
-    url2: "https://github.com/WebOfTrustInfo/rwot1-sf/tree/master/topics-and-advance-readings#topical-listing"
+    url2: "https://github.com/WebOfTrustInfo/rwot1-sf/tree/master/topics-and-advance-readings#topics--advance-readings"
     btn_label2: "Advance Readings"
     btn_class2: "btn--info"
-    url3: "https://github.com/WebOfTrustInfo/rwot1-sf/tree/master/topics-and-advance-readings"
+    url3: "https://github.com/WebOfTrustInfo/rwot1-sf/"
     btn_label3: "Repo"
     btn_class3: "btn--info"
 ---
