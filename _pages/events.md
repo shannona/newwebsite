@@ -20,12 +20,13 @@ vsalon_1:
     btn_label3: "Key Quotes"
     btn_class3: "btn--info"
 rwot_10:
-  - alt: "RWOT 10"
+  - image_path: "/assets/images/events/rwot10a.jpeg"
+    alt: "RWOT 10"
     title: "RWOT 10: CANCELLED (2020)"
     excerpt: 'The tenth RWOT was to happen in Buenoes Aires in March 2020, but was cancelled due to the outbreak of COVID.'
-    url2: "https://github.com/WebOfTrustInfo/rwot10-buenoesaires/tree/master/topics-and-advance-readings#topical-listing"
-    btn_label2: "Advance Readings"
-    btn_class2: "btn--info"
+    url: "https://github.com/WebOfTrustInfo/rwot10-buenoesaires/tree/master/topics-and-advance-readings#topical-listing"
+    btn_label: "Advance Readings"
+    btn_class: "btn--info"
 rwot_9:
   - image_path: "/assets/images/events/rwot9b.jpeg"
     alt: "RWOT 9"
