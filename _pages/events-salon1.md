@@ -49,9 +49,9 @@ Other statements with high interest, but where we could not reach rough consensu
 
 The following graphics capture the major topics and outputs:
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/events-salon1/rwot_v3_web_final.jpeg)
+[![]({{ site.url }}{{ site.baseurl }}/assets/images/events-salon1/rwot_v3_web_final.jpeg)]({ site.url }}{{ site.baseurl }}/assets/images/events-salon1/rwot_v3_web_final.jpeg)
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/events-salon1/rwot_v3_web_final2.jpeg)
+[![]({{ site.url }}{{ site.baseurl }}/assets/images/events-salon1/rwot_v3_web_final2.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/events-salon1/rwot_v3_web_final2.jpeg)
 
 ## Key Quotes
 
