@@ -153,6 +153,7 @@ rwot_1:
 
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
+{% include feature_row id="vsalon_1" type="left" %}
 {% include feature_row id="rwot_9" type="left" %}
 {% include feature_row id="rwot_8" type="left" %}
 {% include feature_row id="rwot_7" type="left" %}
