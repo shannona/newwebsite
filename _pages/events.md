@@ -5,6 +5,20 @@ classes:
   - wide
 author_profile: true
 title: "RWOT Events"
+vsalon_1:
+  - image_path: "/assets/images/events-salon1/rwot_v3_web_final.jpeg"
+  - alt: "Virtual Salon 1"
+  - title: "Virtual Salon 1 (2021)"
+  - excerpt: 'The first RWOT Virtual Salon was on Decentralized Identity & Privacy.'
+  - url: "/salons/decentralizedprivacy2021"
+  - btn_label: "Overview"
+  - btn_class: "btn--success"
+  - url2: "/salons/decentralizedprivacy2021#an-overview"
+  - btn_label2: "Graphics"
+  - btn_class2: "btn--info"
+  - url3: "/salons/decentralizedprivacy2021#key-qutoes"
+  - btn_label3: "Key Quotes"
+  - btn_class3: "btn--info"
 rwot_9:
   - image_path: "/assets/images/events/rwot9b.jpeg"
     alt: "RWOT 9"
