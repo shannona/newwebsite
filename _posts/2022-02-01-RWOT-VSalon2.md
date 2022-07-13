@@ -1,5 +1,5 @@
 ---
-title: "Announcing Out of the Box 2052 Salon"
+title: "☑️ Announcing Out of the Box 2052 Salon"
 excerpt_separator: "<!--more-->"
 categories:
   - RWOT Virtual Salon
