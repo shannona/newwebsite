@@ -1,6 +1,8 @@
 main:
   - title: "Home"
     url: /    
+  - title: "About"
+    url: /about/
   - title: "Announcements"
     url: /posts/
   - title: "Events"
@@ -9,5 +11,3 @@ main:
     url: /papers/
   - title: "Library"
     url: /library/
-  - title: "About"
-    url: /about/
