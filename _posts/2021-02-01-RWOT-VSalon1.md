@@ -1,5 +1,5 @@
 ---
-title: "Announcing Decentralized Identity & Privacy Salon"
+title: "☑️ Announcing Decentralized Identity & Privacy Salon"
 excerpt_separator: "<!--more-->"
 categories:
   - RWOT Virtual Salon
@@ -7,6 +7,9 @@ tags:
   - RWOT Salon 1
   - Privacy
 ---
+
+☑️ The first RWOT Virtual Salon ran on February 25, 2021. See [the report](/salons/decentralizedprivacy2021) for details.
+{: .notice--warning}
 
 Rebooting the Web of Trust invites you to join us for an intimate virtual salon exploring the intersection of decentralized identity and privacy.
 
