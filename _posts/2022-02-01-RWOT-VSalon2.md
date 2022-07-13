@@ -7,6 +7,10 @@ tags:
   - RWOT Salon 2
   - Future
 ---
+
+☑️ The second RWOT Virtual Salon ran on February 17, 2022. A report with details is pending.
+{: .notice--warning}
+
 This last year has triggered a surprising acceleration in adoption of digital identity and virtualization technologies. We work from home with virtual conferencing on numerous platforms. We use more digital services like media and online games. We use our mobiles, our desktops, our laptops, our smart watches, and our internet-of-things devices, seamlessly and interchangeably, as our virtual lives are increasingly integrated with our real lives. It’s an exciting time for those of us in the Rebooting the Web of Trust community, who have been creating and collaborating on decentralized identity solutions for over a decade.
 
 But there remain gaps to be addressed. We’ve learned some of our approaches don’t work, so we’ve found and created new options. Sometimes we’ve succeeded, but we’ve also tried things and failed. We’ve developed a much deeper understanding of the real-world requirements for innovations in identity, and we can use that to do better.
