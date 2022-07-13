@@ -24,5 +24,5 @@ _This library contains articles that may be of interest to RWOT attendees._
 ## Specifications & Reports
 
 * [**DIDs v1.0**](https://w3c.github.io/did-core/)
-* [**Verifiable Credentials Data Model v1.1**](https://w3c.github.io/vc-data-model/
+* [**Verifiable Credentials Data Model v1.1**](https://w3c.github.io/vc-data-model/)
 * [**Verifiable Credentials Use Cases**](https://w3c.github.io/vc-use-cases/)
